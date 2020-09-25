@@ -1,15 +1,12 @@
-### Hi there 👋
+### My name is José A. Puche, I'm a fullstack developer 👋
 
+- 🔭 I’m currently working on an html5 game as a side project
+- 🔭 I'm a mature Java/JavaEE developer since the begining. Still using it at work.
+- 🌱 I've been using Angular and Firebase and I’m currently learning Vue, and keep an eye on Rust and deno
 <!--
-**pucherico/pucherico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on an html5 game
-- 🌱 I’m currently learning Angular, Rust, deno
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with ... Machine Learning
+- 💬 Ask me about ...Anything
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
